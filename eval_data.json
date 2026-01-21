@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is the main topic of the document?",
+    "ground_truth": "The document discusses ..."
+  },
+  {
+    "question": "What risks are mentioned?",
+    "ground_truth": "The risks include ..."
+  }
+]
