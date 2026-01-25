@@ -158,5 +158,5 @@ implementation.
 ------------------------------------------------------------------------
 
 This repository demonstrates a complete, modular, and extensible
-**Agentic RAG System** suitable for academic evaluation as well as
-real-world experimentation.
+**Agentic RAG System** 
+
